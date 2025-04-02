@@ -14,8 +14,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    int contador = 0;
-
+    int contador = 2000;
+//cambio de 0 a 2000
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
