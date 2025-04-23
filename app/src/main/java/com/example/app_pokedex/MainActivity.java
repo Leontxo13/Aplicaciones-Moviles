@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void loadPokemons() {
-        service.getPokemonList(40, 20).enqueue(new Callback<PokemonResponse>() {
+        service.getPokemonList(0, 30).enqueue(new Callback<PokemonResponse>() {
             @Override
             public void onResponse(Call<PokemonResponse> call, Response<PokemonResponse> response) {
                 if (response.isSuccessful() && response.body() != null) {
