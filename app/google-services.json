@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767497728637",
+    "firebase_url": "https://semana7-aa988-default-rtdb.firebaseio.com",
+    "project_id": "semana7-aa988",
+    "storage_bucket": "semana7-aa988.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767497728637:android:72679ec6ebb37d88577714",
+        "android_client_info": {
+          "package_name": "com.example.semana7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNNE1mMsVjIGKD73ILCvbzbC3ofdtAKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
